@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Cappuccino",
+    "category": "Coffee",
+    "description": "Rich espresso topped with smooth steamed milk and creamy foam.",
+    "price": 4.5,
+    "image": "../images/cappuccino.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Caramel Latte",
+    "category": "Coffee",
+    "description": "Smooth espresso blended with steamed milk and sweet caramel.",
+    "price": 5.0,
+    "image": "../images/caramel-latte.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mocha Delight",
+    "category": "Coffee",
+    "description": "A delicious combination of espresso, chocolate, steamed milk, and foam.",
+    "price": 5.25,
+    "image": "../images/mocha.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Iced Vanilla Latte",
+    "category": "Cold Drinks",
+    "description": "Chilled espresso with creamy milk, vanilla, and ice.",
+    "price": 5.0,
+    "image": "../images/iced-vanilla-latte.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Fresh Berry Smoothie",
+    "category": "Cold Drinks",
+    "description": "A refreshing blend of fresh strawberries, blueberries, yogurt, and honey.",
+    "price": 5.5,
+    "image": "../images/berry-smoothie.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Butter Croissant",
+    "category": "Pastries",
+    "description": "Freshly baked, flaky croissant with a rich buttery flavor.",
+    "price": 3.5,
+    "image": "../images/croissant.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Chocolate Muffin",
+    "category": "Pastries",
+    "description": "Soft and moist chocolate muffin filled with rich chocolate chips.",
+    "price": 3.75,
+    "image": "../images/chocolate-muffin.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Chocolate Fudge Cake",
+    "category": "Desserts",
+    "description": "Rich chocolate cake layered with smooth chocolate fudge frosting.",
+    "price": 4.75,
+    "image": "../images/chocolate-cake.jpg"
+  }
+]

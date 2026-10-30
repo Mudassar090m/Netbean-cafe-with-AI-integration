@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic[email]
+sqlalchemy
+pytest
+httpx
+hypothesis
+scikit-learn
+numpy
